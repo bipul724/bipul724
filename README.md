@@ -146,29 +146,6 @@
 
 ---
 
-## 🏆 Certifications
-
-- ☁️ **AWS Cloud Practitioner** — Amazon Web Services Foundational Certification
-- 🌐 **Cisco Networking** — Cisco Networking Academy Certification
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Bipul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bipul724&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bipul724&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bipul724&theme=tokyonight&hide_border=true)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bipul724&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect!
