@@ -22,6 +22,7 @@
 - 🚀 Building production-grade apps with **Next.js**, **Node.js**, and modern cloud tools
 - 🤖 Exploring **AI integration**, **SaaS architecture**, and **serverless infrastructure**
 - 🧠 Strong in **DSA** — 400+ LeetCode problems solved (Java)
+- 🌱 Open source contributor — PR merged into **[Kestra](https://github.com/kestra-io/kestra)**
 - ☁️ Certified by **AWS** and **Cisco Networking Academy**
 - 🎯 Currently learning: **System Design**, **Docker**, and **CI/CD pipelines**
 - 💬 Ask me about **React, Next.js, Node.js, PostgreSQL, Prisma**
@@ -137,6 +138,20 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🌱 Open Source Contributions
+
+<div align="center">
+
+[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+
+</div>
+
+| Project | Contribution | Status |
+| :--- | :--- | :---: |
+| [**kestra-io/kestra**](https://github.com/kestra-io/kestra) | [**#20462**](https://github.com/kestra-io/kestra/pull/20462) — Flow editor tip that suggests Namespace Files for inline Python scripts (Vue + TypeScript, unit tests, translations for every locale) | ![Merged](https://img.shields.io/badge/Merged-8957E5?style=flat-square&logo=github&logoColor=white) |
 
 ---
 
