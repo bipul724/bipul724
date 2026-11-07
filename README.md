@@ -4,7 +4,7 @@
 
 **Full-stack engineer building AI products with Next.js, Node.js and local LLMs**
 
-Web Developer Intern at [GHL Scale Up](https://www.ghlscaleup.com) · B.Tech CSE at ABES Engineering College (AKTU), 2027 · CGPA 8.5/10
+B.Tech CSE at ABES Engineering College (AKTU), 2027 · CGPA 8.5/10
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-chi-two-om49r234oe.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/bipul-chamoli-bb4175296/)
